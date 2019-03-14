@@ -18,6 +18,15 @@ public class CurrencyConverterBean {
 	private BigDecimal quantity;
 	private BigDecimal totalCalculatedAmount;
 	private int port;
+	
+	
+	/**
+	 * 
+	 */
+	public CurrencyConverterBean() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 	/**
 	 * @param id
 	 * @param from
